@@ -20,14 +20,12 @@
                 font-family: Quicksand;
                 
             }
-
             .body, html {
                 background-image: url(images/background.jpg);
                 background-color: black;
                 font-family: 'Quicksand';
                 text-decoration: none;
             }
-
             .nath {
                 position: absolute;
                 display: block;
@@ -37,7 +35,6 @@
                 left: 50%;
                 transform: translateX(-50%) translateY(-50%);
             }
-
             .footer {
                 position: fixed;
                 left: 0;
@@ -47,26 +44,22 @@
                 text-align: center;
                 padding-bottom: 5px;
             }
-
             .icon {
                 border-radius: 50%;
                 width: 256px;
                 height: 256px;
             }
-
             .icon-64 {
                 border-radius: 50%;
                 width: 64px;
                 height: 64px;
                 padding-bottom: 5px;
             }
-
             .icon-128 {
                 width: 128px;
                 height: 128px;
                 padding-bottom: 5px;
             }
-
             ul {
                 list-style-type: none;
                 margin: 0;
@@ -74,12 +67,9 @@
                 overflow: hidden;
                 background-color: #333;
             }
-
             li {
                 float: left;
             }
-
-
             li a {
                 color:white !important;
                 display: block;
@@ -88,7 +78,6 @@
                 padding: 14px 16px;
                 text-decoration: none !important;
             }
-
             li .active {
                 display: block;
                 color: white;
@@ -97,14 +86,11 @@
                 padding: 14px 16px;
                 text-decoration: none;
             }
-
             li a:hover {
                 background-color: #0a3cd1;
                 color: white;
                 text-decoration: none;
             }
-
-
             .tab {
                 position: absolute;
                 display: none;
@@ -114,7 +100,6 @@
                 left: 50%;
                 transform: translateX(-50%) translateY(-50%);
             }
-
         </style>
 
         <script>
@@ -124,7 +109,6 @@
                 for (i = 0; i < tab.length; i++) {
                     tab[i].style.display = "none";
                 }
-
                 document.getElementById(tabID).style.display = "block";
             }
         </script>
@@ -139,6 +123,7 @@
             <li><a href="#" onclick="switchTab('PG2');">Chapter 1</a></li>
             <li><a href="#" onclick="switchTab('PG3');">Chapter 2</a></li>
             <li><a href="#" onclick="switchTab('PG4');">Chapter 3</a></li>
+            <li><a href="#" onclick="switchTab('PG5');">See Mock When</a></li>
         </ul>
 
 
@@ -149,7 +134,9 @@
                     Rii Trek is a Star Trek-inspired RiiConnect24 fanfiction written by our very own WiiMaster. There are three chapters in total, with spin-offs planned in the future.<br>
 <br>
 <a href="#" onclick="switchTab('PG2');">Chapter 1</a> - <a href="#" onclick="switchTab('PG3');">Chapter 2</a> - <a href="#" onclick="switchTab('PG4');">Chapter 3</a>
-                </font></h4>
+                </font></h4><br>
+              <h1>Spin-offs</h1>
+              <h4><font color="#aaaaaa"><a href="#" onclick="switchTab('PG5');">See Mock When</a></font></h4>
             </div>
         </div> 
 
@@ -174,6 +161,22 @@
                 <h1>Chapter 3</h1>
                 <iframe width="700" height="400" src="https://docs.google.com/document/d/e/2PACX-1vSVOiZrJy2xReRSKhE7Az72V03i-rrnQ7MVGZLKJe0IgKYRZMpAepkbWp5qpNWTPEerUPUiCHPi3cgk/pub?embedded=true"></iframe><br>
 <h4><a href="#" onclick="switchTab('PG1');">Back to Index</a></h4>
+            </div>
+        </div>
+
+        <div id="PG5" class="tab">
+            <div align="center">
+                <h1>Rii Trek: See Mock When</h1>
+                <h4><a href="#" onclick="switchTab('PG6');">Part 1</a><br><br>
+<a href="#" onclick="switchTab('PG1');">Back to Index</a></h4>
+            </div>
+        </div>
+
+        <div id="PG6" class="tab">
+            <div align="center">
+                <h1>Chapter 3</h1>
+                <iframe width="700" height="400" src="https://docs.google.com/document/d/e/2PACX-1vRaH2-BOOYMFU9DKsHSfVd6iX9uATLvU5_Zq9DXYXQJw92scHzeRlzuuulUFF36wPExm-NSLiwECUmo/pub?embedded=true"></iframe><br>
+<h4><a href="#" onclick="switchTab('PG5');">Back to See Mock When</a></h4>
             </div>
         </div>
 
