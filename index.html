@@ -105,6 +105,24 @@
                 color: white;
                 text-decoration: none;
             }
+            
+            .notice {
+                background-color: #d10000;
+                color: white;
+                display: block;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none !important;
+                
+            }
+            
+            .notice:hover {
+                background-color: #b30000;
+            }
+            
+            .notice a:hover {
+                background-color: #b30000;
+            }
 
 
             .tab {
@@ -134,6 +152,9 @@
     </head>
 
     <body class="body">
+        <a href="https://sks316.carrd.co"><ul class=notice>
+            <li>This website is no longer maintained, so much of the information here is outdated. I advise you to visit my Carrd instead, as it is actively maintained and contains up-to-date information about me. Thanks.</li>
+        </ul></a>
 
         <ul>
             <li><a href="#" onclick="switchTab('PG1');">Home</a></li>
@@ -142,7 +163,6 @@
             <li><a href="#" onclick="switchTab('PG4');">Nonsense</a></li>
             <li><a href="/mewtwo">Mewtwo Discord Bot</a></li>
         </ul>
-
 
         <div id="PG1" class="tab" style="display:block">
             <div align="center">
