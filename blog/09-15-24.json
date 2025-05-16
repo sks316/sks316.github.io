@@ -1,0 +1,51 @@
+{
+    "format": "particle",
+    "title": "Lillie's Playlist: A Hat in Time",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "published Sep 15, 2024 on GBAtemp.net",
+			"style": {
+				"text-align": "center"
+			}
+        },
+        {
+            "type": "separator"
+        },
+        {
+            "type": "paragraph",
+            "text": "In A Hat in Time, you play as the adorable Hat Kid, who was traveling through space to reach her home planet when a run-in with the Mafia of Cooks caused her to lose all the fuel for her spaceship. Her spaceship runs on Time Pieces, and they've been scattered all over a nearby planet. You'll explore this strange planet and meet its equally strange inhabitants, and get back your Time Pieces one at a time. (Forgive me for the bad pun.)"
+        },
+        {
+            "type": "paragraph",
+            "text": "This game is a 3D platformer, much akin to Super Mario Sunshine and Banjo-Kazooie, which the developers at Gears for Breakfast quote as direct inspirations. If that name sounds familiar, that's because they also published Here Comes Niko, another wonderful 3D platformer. A Hat in Time is billed as being 'Cute-as-heck', and it lives up to that title with its lovable protagonist and its cartoony art-style reminiscent of The Legend of Zelda: The Wind Waker. The controls can be a bit awkward to get used to at first, especially if you're expecting something like Super Mario Sunshine's controls, but once you've got the hang of it, Hat Kid is super fun to control. I find it works super well with a GameCube controller, but that's probably just because the GameCube controller is my all-time favorite controller."
+        },
+        {
+            "type": "paragraph",
+            "text": "Now it's no secret that I'm a sucker for good video game soundtracks, and this game's soundtrack is no exception. It's composed mostly by Pascal Michael Stiefel (also known as Plasma3Music) and includes a few remixes from creators like Qumu. Of note is that the hub theme 'Her Spaceship' was composed by none other than the legendary Grant Kirkhope! Initially the plan was to have Grant compose multiple tracks for the game's soundtrack as part of a Kickstarter stretch goal, but this ultimately didn't happen. Still, this remains one of my favorite game soundtracks."
+        },
+        {
+            "type": "paragraph",
+            "text": "If I had to find one thing to complain about with A Hat in Time, it would be that the base game could be a bit longer. This is resolved however with the two main DLC packages, Seal the Deal and Nyakuza Metro. These add one chapter each, complete with their own soundtracks and collectables. The Seal the Deal DLC also adds a new challenge mode called Death Wish, and the Nyakuza Metro DLC also adds the Online Party multiplayer feature. Personally, I think these DLCs are necessary to get the full experience, but they're not expensive so I would recommend buying them alongside the game. On the topic of DLC, the Steam version has an additional DLC pack in the form of Vanessa's Curse. This DLC adds a new multiplayer mode that uses the Online Party feature from the Nyakuza Metro DLC and was made entirely by fans as part of Gears for Breakfast's 'Creator DLC' program. Additionally, the Steam version supports the Steam Workshop for community-made mods including new levels, chapters, and cosmetics, so you'll technically never run out of content to play depending on your tolerance for quality."
+        },
+        {
+            "type": "paragraph",
+            "text": "In short, I love A Hat in Time, especially with the two major DLC packs. It's one of my favorite games of all time, and I highly recommend playing it if you're a fan of 3D platformers like Banjo-Kazooie, Super Mario Sunshine, or Super Mario 64."
+        },
+        {
+            "type": "paragraph",
+            "text": "*5 - I love it*",
+			"style": {
+				"text-align": "center"
+			}
+        },
+        {
+            "type": "separator"
+        },
+		{
+			"type": "button",
+			"label": "Back",
+			"action": "/blog"
+		}
+    ]
+}

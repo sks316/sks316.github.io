@@ -1,0 +1,44 @@
+{
+    "format": "particle",
+    "title": "Lillie's Hyperfixations: Vinyl Records",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "published Sep 13, 2024 on GBAtemp.net",
+			"style": {
+				"text-align": "center"
+			}
+        },
+        {
+            "type": "separator"
+        },
+        {
+            "type": "paragraph",
+            "text": "We are in the streaming age. Netflix and other video streaming platforms are causing DVD and Blu-Ray to fade into history, and Spotify has caused the widespread near-obsolescence of CDs… and yet, analog media is rebounding. Records are seeing a renaissance. It's almost anomalous… and I love it."
+        },
+        {
+            "type": "paragraph",
+            "text": "The science behind how vinyl works is very interesting. A record itself is just a PVC disc with grooves pressed into it by a machine, with those grooves representing the sound produced during recording of the music. This PVC material is actually transparent naturally; the iconic black color comes from carbon black material that's added in the manufacturing process, originally intended to make the records more resistant to damage and wear. Modern colored records are just as strong as black records, but this wasn't the case back then."
+        },
+        {
+            "type": "paragraph",
+            "text": "When you play a record on a turntable, the tiny needle (or 'stylus') on the end of the tonearm is pulled through the grooves on the record and vibrates, producing sound. That sound is changed into an electrical signal by your turntable and is amplified by your preamp (lots of modern turntables have an integrated preamp), and then is played through your speakers. This is an oversimplification, but I feel it conveys the intriguing nature of the science behind vinyl well."
+        },
+        {
+            "type": "paragraph",
+            "text": "I haven't been collecting for long, but I do have a collection. (https://www.discogs.com/user/PrincessLillie/collection) It may be small, but I'm proud of it, and I'm getting new records all the time. Some of the records I'm proudest to own include the Zeldawave collection from Polygon Dream, Panchiko's D>E>A>T>H>M>E>T>A>L, and the soundtrack to the pilot of The Amazing Digital Circus. I also have several that I've pre-ordered like the Donut County soundtrack, and TPT3YA from Turtle Pals. My record playing setup consists of a Monoprice Monolith turntable, its built-in phono preamp, and wall-mounted Edifier R1280DBs speakers. It may not be the most flashy and fancy setup, but it works for me, and I'm proud of it. I'm not an audiophile, but I care too much about my record collection and sound quality to use a suitcase-style player, and I can only recommend those players if you're completely new to vinyl."
+        },
+        {
+            "type": "paragraph",
+            "text": "It may not be the most affordable hobby, but it's a fun one, and it's something that I'm passionate about."
+        },
+        {
+            "type": "separator"
+        },
+		{
+			"type": "button",
+			"label": "Back",
+			"action": "/blog"
+		}
+    ]
+}

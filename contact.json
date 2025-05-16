@@ -1,0 +1,31 @@
+{
+	"format": "particle",
+	"title": "Contact Information",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "You can contact me via the below methods:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Discord: princesslillie",
+				"Bluesky: @lillie.is-extremely.gay",
+				"Mastodon/Fediverse: @sks316@yiff.life",
+				"Telegram: @PrincessLillie",
+				"Reddit: /u/sks316",
+				"GitHub: sks316",
+				"Email: sks316@mail.com"
+			]
+		},
+		{
+			"type": "paragraph",
+			"text": "Please note that I am most active on Discord and Bluesky. Contacting me via either of these methods, or via email, is your best chance to receive a response."
+		},
+		{
+			"type": "button",
+			"label": "Back",
+			"action": "/"
+		}
+	]
+}

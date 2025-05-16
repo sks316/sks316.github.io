@@ -1,0 +1,67 @@
+
+{
+	"format": "particle",
+	"title": "Blog",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "This page contains all entries from my GBAtemp blog. It will also contain new entries, as well as some exclusive content."
+		},
+		{
+			"type": "separator"
+		},
+		{
+			"type": "paragraph",
+			"text": "Lillie's Playlist: A Hat in Time"
+		},
+		{
+			"type": "paragraph",
+			"text": "published Sep 15, 2024 on GBAtemp.net"
+		},
+		{
+			"type": "button",
+			"label": "Read entry",
+			"action": "/blog/09-15-24"
+		},
+		{
+			"type": "separator"
+		},
+		{
+			"type": "paragraph",
+			"text": "Lillie's Hyperfixations: Vinyl Records"
+		},
+		{
+			"type": "paragraph",
+			"text": "published Sep 13, 2024 on GBAtemp.net"
+		},
+		{
+			"type": "button",
+			"label": "Read entry",
+			"action": "/blog/09-13-24"
+		},
+		{
+			"type": "separator"
+		},
+		{
+			"type": "paragraph",
+			"text": "Lillie's Playlist: Hacknet"
+		},
+		{
+			"type": "paragraph",
+			"text": "published Jan 22, 2023 on GBAtemp.net"
+		},
+		{
+			"type": "button",
+			"label": "Read entry",
+			"action": "/blog/01-22-23"
+		},
+		{
+			"type": "separator"
+		},
+		{
+			"type": "button",
+			"label": "Back",
+			"action": "/"
+		}
+	]
+}

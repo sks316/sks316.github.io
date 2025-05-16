@@ -1,0 +1,99 @@
+{
+    "format": "particle",
+    "title": "Lillie's Playlist: Hacknet",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "published Jan 22, 2023 on GBAtemp.net",
+			"style": {
+				"text-align": "center"
+			}
+        },
+        {
+            "type": "separator"
+        },
+        {
+            "type": "paragraph",
+            "text": "This is the first entry of a blog series I'll be doing called Lillie's Playlist. In Lillie's Playlist, I'll be posting about games I've been playing lately (usually older or niche games), whether I recommend them or not, and encouraging discussion about them. Keep in mind that these aren't reviews, as I'm just a casual gamer and not a critic. I just want to recommend games I've been playing to others and encourage discussion about them, since I usually don't see them discussed very much anymore, if at all. Still, I will be providing a non-critical rating based on the following 5-point scale:"
+        },
+        {
+            "type": "list",
+            "items": [
+                "5 - I love it",
+                "4 - I like it",
+                "3 - Meh",
+                "2 - I don't like it",
+                "1 - I hate it"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "That's enough of the introduction, let's get started."
+        },
+        {
+            "type": "paragraph",
+            "text": "In simple terms, Hacknet is a hacking simulator game - but that's not the whole story. As soon as the game starts, you're introduced to Bit, a fellow hacker who's already dead. His automated failsafe mechanism will be your tutorial. Throughout the game, you'll use the tools you have (and pick up new ones along the way) to hack foreign systems and uncover pieces of the puzzle surrounding Bit's demise, one step at a time."
+        },
+        {
+            "type": "paragraph",
+            "text": "The gameplay is simple but effective: You're given a UNIX-like terminal and filesystem, which the tutorial will teach you how to navigate. You also have a graphical interface, but the majority of your work will be done in the terminal. You'll use real commands like cat, scp, ps, and kill, and you'll also use fake programs like PortHack, SSHcrack, and FTPBounce. The game's been criticized by some real hackers for its lack of realism, but personally the lack of realism makes it all the more fun. To be honest, I was never into games for the realism anyways."
+        },
+        {
+            "type": "paragraph",
+            "text": "*SPOILERS AHEAD*",
+			"style": {
+				"text-align": "center"
+			}
+        },
+        {
+            "type": "paragraph",
+            "text": "I'll be spoiling major plot elements here, so this is your last chance to scroll away or close your eyes before the story is ruined for you."
+        },
+        {
+            "type": "paragraph",
+            "text": "After the tutorial is finished, you'll be instructed by Bit - or rather, Bit's automated failsafe - to join a group called Entropy. You'll hack an Entropy test bench and download a file, at which point they'll pose a challenge. I won't go too into detail for the sake of not making this too long. Once you're in, you'll have access to a 'Contract Database.' These Contracts are basically just missions, most of them aren't story-important but you'll have to complete at least some of them to progress. You'll bounce between factions as you progress, and the missions will get procedurally harder as the game goes on, introducing new elements like proxies, firewalls, and new ports to crack."
+        },
+        {
+            "type": "paragraph",
+            "text": "Eventually you'll uncover the truth about HacknetOS and, in turn, Bit's death. Bit was heavily-involved with the development of HacknetOS for a major cybersecurity firm called EnTech, but unbeknownst to Bit, HacknetOS's true purpose was to be a marketing ploy; EnTech's true intentions were to use HacknetOS to advertise another project it was developing, one that would make systems near-impossible to hack. At some point, Bit had grown wary of HacknetOS's true purpose, leading the CEO of EnTech to ask one of his contacts to 'discourage him' - which the contact mistook for assassination. Your final mission sees you hacking a secure EnTech backup server and deleting all copies of HacknetOS, then killing PortHack.Heart - the brains behind your primary tool, PortHack. After a final message from Bit, the credits roll and you've completed the main story of Hacknet. This game does have DLC, Hacknet Labyrinths, but I think I've spoiled enough. I'll let the DLC be a surprise."
+        },
+        {
+            "type": "paragraph",
+            "text": "I know I said before that the majority of the missions aren't story-important, but that's not to say you should totally neglect them or push them aside. Some of Hacknet's missions tackle some major ethical issues, like euthanasia. One of the missions, Project Junebug, will have you hacking a pacemaker belonging to a suffering patient with a terminal illness, whom the hospital has denied euthanasia against his wishes. The end goal of the mission has you installing a corrupted firmware to the pacemaker remotely, thus euthanizing the patient. The developers do recognize that some players won't want to do this, and provide an option to opt-out of the mission. Still, there's no denying that this is an incredibly-sensitive topic, which I think Hacknet handles extremely well."
+        },
+        {
+            "type": "paragraph",
+            "text": "*END OF SPOILERS*",
+			"style": {
+				"text-align": "center"
+			}
+        },
+        {
+            "type": "paragraph",
+            "text": "Hacknet doesn't take very long to complete; HowLongToBeat shows that you can complete the game in roughly 8 hours. It's full of secrets though, especially with the Labyrinths DLC, so much so that you're guaranteed not to find them all in your first playthrough. It also has Steam Workshop support, which lets players create their own custom stories using Hacknet. This gives Hacknet lots of replay value, at least to me. It can also run on damn-near any PC hardware; it's DRM-free and runs natively on Linux, so I copied it to my Chromebook (Pentium N4200 + 4GB RAM) and ran it under Crostini as a test, and it runs at a playable framerate! Not a good framerate mind you, but a playable one. It also has minor graphical issues, but that's expected out of gaming on Crostini, at least to me."
+        },
+        {
+            "type": "paragraph",
+            "text": "Now I admit I'm a sucker for video game soundtracks, and Hacknet is no exception. Hacknet's soundtrack is full of great music that's hard for me to put a genre on, though a review on the GOG page categorizes it as 'synthwave, French House, VGM, Big Beat, electro-pop, and dance-punk.'"
+        },
+        {
+            "type": "paragraph",
+            "text": "In all, I like Hacknet. It's a genuinely-fun game that, while it doesn't exactly emulate what it's like to be a real hacker, it sure does make you feel like one. I highly recommend picking it up, especially when it goes on sale, as it combined with the Labyrinths DLC can reach prices as low as $2."
+        },
+        {
+            "type": "paragraph",
+            "text": "*4 - I like it*",
+			"style": {
+				"text-align": "center"
+			}
+        },
+        {
+            "type": "separator"
+        },
+		{
+			"type": "button",
+			"label": "Back",
+			"action": "/blog"
+		}
+    ]
+}

@@ -1,0 +1,47 @@
+{
+	"format": "particle",
+	"title": "Lillie's Directory",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "This is a Directory of websites for the Constellation Browser, similar to the main Directory. This one was built by me and has less restrictions."
+		},
+		{
+			"type": "separator"
+		},
+		{
+			"type": "paragraph",
+			"text": "No websites are currently listed on this Directory. Here's a link to the main Directory for now."
+		},
+		{
+			"type": "paragraph",
+			"text": "Constellation Browser Directory"
+		},
+		{
+			"type": "paragraph",
+			"text": "by Particle Studios"
+		},
+		{
+			"type": "button",
+			"label": "Go!",
+			"action": "https://browser.particlestudios.eu/directory"
+		},
+		{
+			"type": "separator"
+		},
+		{
+			"type": "paragraph",
+			"text": "Want your website added to this Directory? Please contact me! The only rule for this Directory is that your site has to have some form of content!"
+		},
+		{
+			"type": "button",
+			"label": "Contact Information",
+			"action": "/contact"
+		},
+		{
+			"type": "button",
+			"label": "Back",
+			"action": "/"
+		}
+	]
+}

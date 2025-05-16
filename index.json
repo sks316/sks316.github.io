@@ -1,0 +1,74 @@
+{
+	"format": "particle",
+	"title": "Lillie's Lilypad",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "*Hi, I'm Lillie.*",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "image",
+			"width": 7,
+			"height": 7,
+			"pixels": "011011 G G G 011111 00111 0001",
+			"style": {
+				"scale": 3
+			}
+		},
+		{
+			"type": "paragraph",
+			"text": "This version of my personal website is exclusive to the Constellation Browser. Use the buttons below to move around, or scroll down for the 'about me' section."
+		},
+		{
+			"type": "button",
+			"label": "Lillie's Directory",
+			"action": "/directory"
+		},
+		{
+			"type": "button",
+			"label": "Blog",
+			"action": "/blog"
+		},
+		{
+			"type": "button",
+			"label": "Contact Information",
+			"action": "/contact"
+		},
+		{
+			"type": "separator"
+		},
+		{
+			"type": "paragraph",
+			"text": "*About Me*",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "list",
+			"items": [
+				"My name is Lillie. I also go by Pup. Call me either, or both!",
+				"I am twenty-two years old.",
+				"Here's my list of labels... I am: Transgender, lesbian, polyamorous, neurodivergent, autistic, ADHD, OCD, furry, pegasister, age regressor, and therian.",
+				"I'm most-usually an optimist. I like to see things from a positive, hopeful point of view.",
+				"I would like to be a VTuber one day.",
+				"I am a therian. I'm a nine-tailed kitsune.",
+				"I'm a Discord moderator for VShojo's Hime Hajime. I was also formerly a Discord administrator for RiiConnect24, a Discord moderator for WiiLink24, and a Discord & Twitch moderator for VTuber Marina.",
+				"My favorite Pokemon is Meloetta.",
+				"My favorite video games are Pokemon XD: Gale of Darkness, A Hat in Time, and Inscryption."
+			]
+		},
+		{
+			"type": "paragraph",
+			"text": "More info about me is available on my main website at lillie2523.carrd.co"
+		},
+		{
+			"type": "button",
+			"label": "Back to the Directory",
+			"action": "https://browser.particlestudios.eu/directory"
+		}
+	]
+}
