@@ -20,7 +20,7 @@
 		{
 			"type": "button",
 			"label": "Go!",
-			"action": "https://immychan.neocities.org"
+			"action": "https://immychan.neocities.org/"
 		},
 		{
 			"type": "separator"
