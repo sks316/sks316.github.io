@@ -11,20 +11,16 @@
 		},
 		{
 			"type": "paragraph",
-			"text": "No websites are currently listed on this Directory. Here's a link to the main Directory for now."
+			"text": "ImmyChan"
 		},
 		{
 			"type": "paragraph",
-			"text": "Constellation Browser Directory"
-		},
-		{
-			"type": "paragraph",
-			"text": "by Particle Studios"
+			"text": "by Immy"
 		},
 		{
 			"type": "button",
 			"label": "Go!",
-			"action": "https://browser.particlestudios.eu/directory"
+			"action": "https://immychan.neocities.org"
 		},
 		{
 			"type": "separator"
