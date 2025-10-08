@@ -27,6 +27,22 @@
 		},
 		{
 			"type": "paragraph",
+			"text": "Cranky News"
+		},
+		{
+			"type": "paragraph",
+			"text": "by Remy Wang"
+		},
+		{
+			"type": "button",
+			"label": "Go!",
+			"action": "http://cranky.news/"
+		},
+		{
+			"type": "separator"
+		},
+		{
+			"type": "paragraph",
 			"text": "Want your website added to this Directory? Please contact me! The only rule for this Directory is that your site has to have some form of content!"
 		},
 		{
@@ -41,3 +57,4 @@
 		}
 	]
 }
+
